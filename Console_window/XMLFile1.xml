@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mydata xmlns="http://CustomDemoXML.htm">
+  <field1>This is the value in field1 from the XML file</field1>
+  <field2>This is the value in field2 from the XML file</field2>
+  <field3>This is the value in field3 from the XML file</field3>
+</mydata>

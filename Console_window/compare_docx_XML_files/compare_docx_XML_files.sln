@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "compare_docx_XML_files", "compare_docx_XML_files\compare_docx_XML_files.csproj", "{03BBE9DD-CD74-4DFF-91CB-C6A2BB387804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03BBE9DD-CD74-4DFF-91CB-C6A2BB387804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03BBE9DD-CD74-4DFF-91CB-C6A2BB387804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03BBE9DD-CD74-4DFF-91CB-C6A2BB387804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03BBE9DD-CD74-4DFF-91CB-C6A2BB387804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1653775C-EFDB-4F61-9222-0F15115DE146}
+	EndGlobalSection
+EndGlobal
